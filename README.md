@@ -5,7 +5,7 @@ This repository contains the code and data used in the paper:
 
 ## Contents
 - The source code for optimization is located in the `src` folder.  
-- All experiments were previously executed on Google Colab.
+- All calculations were previously executed on Google Colab.
 
 ## Requirements
 - **PyTorch** (optimized for GPU is recommended).
