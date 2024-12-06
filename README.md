@@ -8,6 +8,6 @@ This repository contains the code and data used in the paper:
 - All calculations were previously executed on Google Colab.
 
 ## Requirements
-- **PyTorch** (optimized for GPU is recommended).
+- **PyTorch** (GPU version is recommended).
 
 Feel free to explore and use this repository for reproducing the results or extending the methodology presented in the paper. For additional details not included here, feel free to contact me.
