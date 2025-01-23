@@ -5,9 +5,12 @@ This repository contains the code and data used in the paper:
 
 ## Contents
 - The source code for optimization is located in the `src` folder.  
-- All calculations were previously executed on Google Colab.
+- All calculations were performed on Google Colab.
 
 ## Requirements
-- **PyTorch** (GPU version is recommended).
+- **PyTorch** (GPU version recommended).
 
-Feel free to explore and use this repository for reproducing the results or extending the methodology presented in the paper. For additional details not included here, feel free to contact me, zh168@georgetown.edu.
+Feel free to explore and use this repository to reproduce the results or extend the methodology presented in the paper. For additional details, you can reach out at **zh168@georgetown.edu**.
+
+## Citation
+[![DOI](https://zenodo.org/badge/888142353.svg)](https://doi.org/10.5281/zenodo.14722296)
