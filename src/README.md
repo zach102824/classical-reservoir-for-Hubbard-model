@@ -10,8 +10,8 @@ The `optim.ipynb` file is the main notebook that performs the optimization and g
    - This file contains the matrix representation of the operators applied during the optimization process.  
    - It is generated using the notebook `torch_get_ci^+_cj_n_related_matrix.ipynb`.
 
-3. **Basis for Different \( S \) Values (for \( S = S_z = 0 \))**  
-   - For the specific case \( S = S_z = 0 \), a file is provided to generate the basis for states with different \( S \) values.  
+3. **Basis for Different \( S \) Values (for \( S_z = 0 \))**  
+   - For the specific case \( S_z = 0 \), a file is provided to generate the basis for states with different \( S \) values.  
    - This is provided in the notebook `get_spin_matrix_spin_basis.ipynb`.
 
 Ensure that these prerequisite files are correctly generated and accessible before running `optim.ipynb`.
