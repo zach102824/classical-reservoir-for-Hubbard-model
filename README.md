@@ -1,7 +1,8 @@
 # Classical Reservoir for Hubbard Model
 
 This repository contains the code and data used in the paper:  
-**"Efficient Fermi-Hubbard Model Ground-State Preparation by Coupling to a Classical Reservoir in the Instantaneous-Response Limit."**
+**"Efficient Fermi-Hubbard Model Ground-State Preparation by Coupling to a Classical Reservoir in the Instantaneous-Response Limit."** 
+Available at: https://doi.org/10.48550/arXiv.2501.13862
 
 ## Contents
 - The source code for optimization is located in the `src` folder.  
